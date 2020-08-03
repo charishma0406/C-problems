@@ -4,6 +4,7 @@ using System.Text;
 
 namespace MainProject.ArrayLeetCodeProblems
 {
+    
     class ReverseNum
     {
         public int Num(int x)
